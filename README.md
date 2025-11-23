@@ -132,12 +132,10 @@ The GitHub Actions workflow automatically:
 
 ## 👨‍💻 Author
 
-**Your Name**  
-NJIT - IS 601  
+**Lekhana Sandra**   
 Module 11 Assignment  
-Fall 2024
 
 ## 📄 License
 
-Educational project for IS 601 course.
+Educational project for course.
 
