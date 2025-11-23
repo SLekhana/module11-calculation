@@ -2,9 +2,8 @@
 
 ## Student Information
 - **Name**: Lekhana Sandra
-- **Course**: IS 601 - Web Systems Development
 - **Module**: 11 - Calculation Model with Factory Pattern
-- **Date**: November 2024
+- **Date**: November 2025
 
 ## Assignment Overview
 
@@ -103,6 +102,6 @@ This assignment successfully demonstrates production-ready software development 
 
 ---
 
-**Submitted**: November 2024  
-**Repository**: [GitHub URL]  
-**Docker Hub**: [Docker Hub URL]
+**Submitted**: November 2025 
+**Repository**: https://github.com/SLekhana/module11-calculation 
+**Docker Hub**: https://hub.docker.com/repository/docker/lekhanasandra/fastapi-calc-app/general 
